@@ -11,14 +11,14 @@ Urna eletronica para escolha do melhor goleiro e melhor jogador da copa do mundo
 ### Alisson - 38111
 
 <br />
-<img src="images/print-alisson.png" alt="Login" width="200"/>
+<img src="images/print-alisson.png" alt="Login" width="400"/>
 <br />
 <br />
 
 ### Weverton - 77222
 
 <br />
-<img src="images/print-weverton.png" alt="Login" width="200"/>
+<img src="images/print-weverton.png" alt="Login" width="400"/>
 <br />
 <br />
 
@@ -27,20 +27,20 @@ Urna eletronica para escolha do melhor goleiro e melhor jogador da copa do mundo
 ### Neymar - 10
 
 <br />
-<img src="images/print-neymar.png" alt="Login" width="200"/>
+<img src="images/print-neymar.png" alt="Login" width="400"/>
 <br />
 <br />
 
 ### Richarlison - 09
 
 <br />
-<img src="images/print-richarlison.png" alt="Login" width="200"/>
+<img src="images/print-richarlison.png" alt="Login" width="400"/>
 <br />
 <br />
 
 ## FIM
 
 <br />
-<img src="images/fim.png" alt="Login" width="200"/>
+<img src="images/fim.png" alt="Login" width="400"/>
 <br />
 <br />
