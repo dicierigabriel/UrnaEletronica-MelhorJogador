@@ -4,6 +4,8 @@ Urna eletronica para escolha do melhor goleiro e melhor jogador da copa do mundo
 
 # Sobre o Projeto
 
+Este projeto foi desenvolvido em HTML, CSS e Java Script.
+
 # Telas
 
 ## Melhor Goleiro
